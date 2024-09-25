@@ -22,7 +22,8 @@ Additional features can be incorporated to make the game more engaging:
 <li>Displaying the score after each round.</li>
 <li>Awarding points based on how quickly the user guesses the correct number. The fewer attempts, the higher the score!</li>
 
-
+<br>
+<br>
 <b>Technology used:</b> Java
 
 <b>IDE:</b> IntelliJ IDE
